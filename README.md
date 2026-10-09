@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Munawirul Hadi 👋</h1>
 
 <p align="center">
-  <b>Fullstack Engineer</b> · React · Svelte · TypeScript · Go · C#/.NET<br/>
+  <b>Senior Frontend Engineer</b> · React · TypeScript · Svelte · Next.js<br/>
   Building car-sharing & fleet platforms at <b>GetGo</b> across Singapore, Malaysia and Australia
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/heyhadi"><img src="https://img.shields.io/badge/LinkedIn-heyhadi-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:hadi.munawirul@gmail.com"><img src="https://img.shields.io/badge/Email-hadi.munawirul%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://heyhadi.github.io"><img src="https://img.shields.io/badge/Portfolio-heyhadi.github.io-111418?style=flat" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/Based%20in-Bandung%2C%20Indonesia-555?style=flat" alt="Location"/>
 </p>
 
@@ -15,9 +16,10 @@
 
 ### About me
 
-I'm a fullstack engineer with **5+ years** of experience shipping production systems. I own features end to end, from database schema through API to interface, and I care about the parts that keep a product healthy: release process, CI/CD, dependency hygiene and incident response.
+I'm a frontend engineer with **5+ years** of experience shipping production systems. I own features end to end, from database schema through API to interface, and I care about the parts that keep a product healthy: release process, CI/CD, dependency hygiene and incident response.
 
-- 🚗 **Now:** Fullstack Engineer at GetGo Technologies, working on platforms for three brands (GetGo, Popcar, Zipzap)
+- 🚗 **Now:** Software Engineer II (Fullstack) at GetGo Technologies, building the customer web app and ops platform for three brands (GetGo, Popcar, Zipzap)
+- 👥 **Lead code reviewer** for the web team; onboard and mentor new engineers
 - 🧭 **Release manager** and top contributor for the platform's largest internal application
 - 🔧 **Modernization:** led upgrades on a long-lived React codebase (React 16 → 18, Node 14 → 24, Bootstrap 4 → 5, Webpack → Vite spike)
 - 🤖 **AI tooling:** built an internal Claude Code plugin (21 skills, 10 agents) that keeps AI-generated code consistent with team conventions
@@ -74,17 +76,16 @@ I'm a fullstack engineer with **5+ years** of experience shipping production sys
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**quran-svelte-vite**](https://github.com/heyhadi/quran-svelte-vite) | A lightweight Quran web app · [live demo](https://quran-svelte-vite.vercel.app) | Svelte, svelte-query, Vite |
+| [**heyhadi.github.io**](https://github.com/heyhadi/heyhadi.github.io) | This portfolio: per-route prerendered React, blog, RSS · [live](https://heyhadi.github.io) | React, TypeScript, Vite |
 | [**getgo-web-skills**](https://github.com/heyhadi/getgo-web-skills) | Claude Code slash commands that automate a web team's everyday workflows | Claude Code |
-| [**QuranRN**](https://github.com/heyhadi/QuranRN) | Quran reader app for mobile | React Native, TypeScript |
 | [**react-vite-ssr-test**](https://github.com/heyhadi/react-vite-ssr-test) | Experiments with server-side rendering on React + Vite | React, TypeScript, Vite |
 
 ### Experience
 
-- **Fullstack Engineer**, GetGo Technologies (Singapore, remote) · *May 2022 – Present*
+- **Software Engineer II (Fullstack)**, GetGo Technologies (Singapore, remote) · *May 2022 – Present*
 - **Backend Developer**, PT Majapahit Teknologi (Jakarta) · *Apr 2021 – Apr 2022*: Node.js/Express services for OSS-RBA, Indonesia's national business licensing platform
 - **Immersive Fullstack JavaScript Bootcamp**, Hacktiv8 · *2020 – 2021*
 
 ---
 
-<p align="center"><i>Open to conversations about frontend architecture, developer experience and AI-assisted engineering. Feel free to reach out.</i></p>
+<p align="center"><i>Open to senior frontend roles — remote, or relocation to Singapore, Australia, Japan, the Netherlands or Germany. <a href="https://heyhadi.github.io">Portfolio and CV</a>.</i></p>
