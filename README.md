@@ -77,7 +77,6 @@ I'm a frontend engineer with **5+ years** of experience shipping production syst
 | Project | Description | Stack |
 | --- | --- | --- |
 | [**heyhadi.github.io**](https://github.com/heyhadi/heyhadi.github.io) | This portfolio: per-route prerendered React, blog, RSS · [live](https://heyhadi.github.io) | React, TypeScript, Vite |
-| [**getgo-web-skills**](https://github.com/heyhadi/getgo-web-skills) | Claude Code slash commands that automate a web team's everyday workflows | Claude Code |
 | [**react-vite-ssr-test**](https://github.com/heyhadi/react-vite-ssr-test) | Experiments with server-side rendering on React + Vite | React, TypeScript, Vite |
 
 ### Experience
