@@ -18,7 +18,7 @@
 
 I'm a frontend engineer with **5+ years** of experience shipping production systems. I own features end to end, from database schema through API to interface, and I care about the parts that keep a product healthy: release process, CI/CD, dependency hygiene and incident response.
 
-- 🚗 **Now:** Software Engineer II (Fullstack) at GetGo Technologies, building the customer web app and ops platform for three brands (GetGo, Popcar, Zipzap)
+- 🚗 **Now:** Fullstack Engineer at GetGo Technologies, building the customer web app and ops platform for three brands (GetGo, Popcar, Zipzap)
 - 👥 **Lead code reviewer** for the web team; onboard and mentor new engineers
 - 🧭 **Release manager** and top contributor for the platform's largest internal application
 - 🔧 **Modernization:** led upgrades on a long-lived React codebase (React 16 → 18, Node 14 → 24, Bootstrap 4 → 5, Webpack → Vite spike)
@@ -81,7 +81,7 @@ I'm a frontend engineer with **5+ years** of experience shipping production syst
 
 ### Experience
 
-- **Software Engineer II (Fullstack)**, GetGo Technologies (Singapore, remote) · *May 2022 – Present*
+- **Fullstack Engineer**, GetGo Technologies (Singapore, remote) · *May 2022 – Present*
 - **Backend Developer**, PT Majapahit Teknologi (Jakarta) · *Apr 2021 – Apr 2022*: Node.js/Express services for OSS-RBA, Indonesia's national business licensing platform
 - **Immersive Fullstack JavaScript Bootcamp**, Hacktiv8 · *2020 – 2021*
 
