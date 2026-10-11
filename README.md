@@ -76,7 +76,10 @@ I'm a frontend engineer with **5+ years** of experience shipping production syst
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**QuranRN**](https://github.com/heyhadi/QuranRN) | Quran reader app for mobile | React Native, Expo Router, Zustand, TypeScript |
+| [**form-keeper**](https://github.com/heyhadi/form-keeper) | Chrome extension: reload without losing your forms, including files and custom dropdowns, in React, Vue and Svelte apps · [website](https://heyhadi.github.io/form-keeper/) | TypeScript, WXT, Playwright |
+| [**upgrade-scout**](https://github.com/heyhadi/upgrade-scout) | CLI: which dependencies are a major behind, and what in your code breaks when you upgrade · [npm](https://www.npmjs.com/package/upgrade-scout) | TypeScript, ts-morph |
+| [**depbot-policy**](https://github.com/heyhadi/depbot-policy) | CLI: one policy file → `dependabot.yml`, patch-only auto-merge, block list and review rotation · [npm](https://www.npmjs.com/package/depbot-policy) | TypeScript, GitHub Actions |
+| [**Wird**](https://github.com/heyhadi/wird) | Quran app for reading, listening and memorising, in Indonesian and English | React Native, Expo |
 
 ### Experience
 
