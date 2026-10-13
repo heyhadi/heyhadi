@@ -80,6 +80,7 @@ I'm a frontend engineer with **5+ years** of experience shipping production syst
 | [**upgrade-scout**](https://github.com/heyhadi/upgrade-scout) | CLI: which dependencies are a major behind, and what in your code breaks when you upgrade · [npm](https://www.npmjs.com/package/upgrade-scout) | TypeScript, ts-morph |
 | [**depbot-policy**](https://github.com/heyhadi/depbot-policy) | CLI: one policy file → `dependabot.yml`, patch-only auto-merge, block list and review rotation · [npm](https://www.npmjs.com/package/depbot-policy) | TypeScript, GitHub Actions |
 | [**Wird**](https://github.com/heyhadi/wird) | Quran app for reading, listening and memorising, in Indonesian and English · [website](https://heyhadi.github.io/wird/) · [Android preview](https://github.com/heyhadi/wird/releases/latest) | React Native, Expo |
+| [**workout-alarm-app**](https://github.com/heyhadi/workout-alarm-app) | The alarm you can't snooze — a strict Android alarm that only stops after camera-verified reps · [website](https://heyhadi.github.io/workout-alarm-app/) | React Native, Expo, Kotlin, ML Kit |
 
 ### Experience
 
